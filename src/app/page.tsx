@@ -36,12 +36,14 @@
 
 
 import FirstAboveNav from '@/pages/HomepageRelated/FirstAboveNav';
+import Navbar from '@/pages/HomepageRelated/Navbar';
 import React from 'react';
 
 const Home = () => {
   return (
     <div>
       <FirstAboveNav/>
+      <Navbar/>
     </div>
   );
 };
