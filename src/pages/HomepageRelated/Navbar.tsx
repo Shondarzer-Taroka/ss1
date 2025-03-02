@@ -257,7 +257,14 @@ const Navbar = () => {
     },
     { name: 'DEPARTMENT', subItems: [
 
-      
+      'Department of Bangla',
+      'Department of Business Administration',
+      'Department of Civil Engineering',
+      'Department of Computer Science and Engineering',
+      'Department of Education',
+      'Department of Electrical and Electronic Engineering',
+      'Department of English',
+
 
     ] },
     { name: 'ADMISSION', subItems: [] },
